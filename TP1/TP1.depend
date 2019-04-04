@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554407620 source:c:\users\pupu pet shop\desktop\tp1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1554409587 c:\users\pupu pet shop\desktop\tp1\tp1\operaciones.h
+
+1554409587 source:c:\users\pupu pet shop\desktop\tp1\tp1\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
