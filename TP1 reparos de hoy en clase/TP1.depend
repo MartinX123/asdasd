@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1554437754 source:c:\users\pupu pet shop\desktop\tp1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1554438305 c:\users\pupu pet shop\desktop\tp1\tp1\operaciones.h
+
+1554438763 source:c:\users\pupu pet shop\desktop\tp1\tp1\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1554413499 source:c:\users\pupu pet shop\desktop\tp1\tp1 ultimo\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1554413227 c:\users\pupu pet shop\desktop\tp1\tp1 ultimo\operaciones.h
+
+1554413769 source:c:\users\pupu pet shop\desktop\tp1\tp1 ultimo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1554419175 source:c:\users\pupu pet shop\desktop\tp1\tp1 ultmo 2\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1554419063 c:\users\pupu pet shop\desktop\tp1\tp1 ultmo 2\operaciones.h
+
+1554419973 source:c:\users\pupu pet shop\desktop\tp1\tp1 ultmo 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1554433035 source:c:\users\pupu pet shop\desktop\tp1\tp1 funciona main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1554423356 c:\users\pupu pet shop\desktop\tp1\tp1 funciona main\operaciones.h
+
+1554432573 source:c:\users\pupu pet shop\desktop\tp1\tp1 funciona main\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1554475697 source:c:\users\alumno\downloads\nueva carpeta\tp_laboratorio_1-master (1)\tp_laboratorio_1-master\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1554477461 c:\users\alumno\downloads\nueva carpeta\tp_laboratorio_1-master (1)\tp_laboratorio_1-master\tp1\operaciones.h
+
+1554477946 source:c:\users\alumno\downloads\nueva carpeta\tp_laboratorio_1-master (1)\tp_laboratorio_1-master\tp1\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
