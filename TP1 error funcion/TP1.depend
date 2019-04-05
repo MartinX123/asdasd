@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1554407620 source:c:\users\pupu pet shop\desktop\tp1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1554409587 c:\users\pupu pet shop\desktop\tp1\tp1\operaciones.h
+
+1554409587 source:c:\users\pupu pet shop\desktop\tp1\tp1\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1554413499 source:c:\users\pupu pet shop\desktop\tp1\tp1 ultimo\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1554413227 c:\users\pupu pet shop\desktop\tp1\tp1 ultimo\operaciones.h
+
+1554413769 source:c:\users\pupu pet shop\desktop\tp1\tp1 ultimo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1554419175 source:c:\users\pupu pet shop\desktop\tp1\tp1 ultmo 2\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1554419063 c:\users\pupu pet shop\desktop\tp1\tp1 ultmo 2\operaciones.h
+
+1554419973 source:c:\users\pupu pet shop\desktop\tp1\tp1 ultmo 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
